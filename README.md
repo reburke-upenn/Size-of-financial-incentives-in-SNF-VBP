@@ -1,1 +1,2 @@
 # Size-of-financial-incentives-in-SNF-VBP
+This repository contains code to create the SNF-level dataset and exhibit 1 for the manuscript: Burke RE, Hutchins F, Heintz J, Patel SR, Appel S, Norman J, Gupta A, Rose L, Werner RM. "Size of the Financial Incentives in Medicare's Skilled Nursing Facility Value-Based Purchasing Program." JAMA Netw Open. 2025 Sep 2;8(9):e2533369. doi: 10.1001/jamanetworkopen.2025.33369. PMID: 40991286; PMCID: PMC12461404.
